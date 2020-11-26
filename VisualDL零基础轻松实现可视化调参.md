@@ -156,4 +156,4 @@ visualdl service upload --logdir ./scalar3558 ./scalar3558_batchsize\*2/ ./scala
 
 > **VisualDL**的**Github**地址：[**https://github.com/PaddlePaddle/VisualDL**](https://github.com/PaddlePaddle/VisualDL)
 > 
-> **VIsualDL**的**Gitee**地址：[**https://gitee.com/PaddlePaddle/VisualDL
+> **VisualDL**的**Gitee**地址：[**https://gitee.com/PaddlePaddle/VisualDL
