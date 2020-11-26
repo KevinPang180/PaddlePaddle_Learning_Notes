@@ -29,3 +29,11 @@ https://www.bilibili.com/video/BV1YT4y1c78B/
 官方课程地址：https://aistudio.baidu.com/aistudio/education/group/info/1335
 
 个人笔记心得分享：https://blog.csdn.net/qq_41138197/article/details/106974112
+
+## 4.[VisualDL零基础轻松实现可视化调参（Scalar&VDL.service篇）](https://github.com/KevinPang180/PaddlePaddle_Learning_Notes/blob/master/VisualDL%E9%9B%B6%E5%9F%BA%E7%A1%80%E8%BD%BB%E6%9D%BE%E5%AE%9E%E7%8E%B0%E5%8F%AF%E8%A7%86%E5%8C%96%E8%B0%83%E5%8F%82.md)
+
+视频分享教程地址：https://www.bilibili.com/video/BV1WK4y1j7Db/
+
+VisualDL是飞桨可视化分析工具，以丰富的图表呈现训练参数变化趋势、模型结构、数据样本、高维数据分布等。可帮助用户更清晰直观地理解深度学习模型训练过程及模型结构，进而实现高效的模型优化。
+
+此篇分享将通过PaddleDetection完成一个简单的PCB电路版瑕疵目标检测的模型训练，并在此过程中跟大家分享如何在训练中使用VisualDL的Scalar和VDL.service功能来轻松实现可视化调参。
